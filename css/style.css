@@ -1,0 +1,32 @@
+body {
+  padding: 10px;
+  font-family: Calibri, Roboto;
+  background-color: #95e1d3;
+}
+
+img {
+  width: 170px;
+  border-radius: 50%;
+  margin-right: 10px
+}
+
+.title{
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #eaffd0;
+  border-bottom: 2px solid;
+  border-color: #f38181 ;
+}
+
+ol{
+  list-style-type: square;
+}
+
+tr{
+  vertical-align: top;
+}
+td{
+  min-width: 100px
+}

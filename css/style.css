@@ -4,6 +4,10 @@ body {
   background-color: #95e1d3;
 }
 
+#name{
+  color: #f38181;
+  text-shadow: 1px 1px #eaffd0;
+}
 img {
   width: 170px;
   border-radius: 50%;
@@ -28,9 +32,12 @@ img {
   padding-left: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
-  background-color: #fce38a;
   border-bottom: 2px solid;
   border-color: #f38181 ;
+}
+
+.project-item:hover{
+  box-shadow: 3px 3px 3px 3px #eaffd0;
 }
 .experience{
   margin-bottom: 10px;
